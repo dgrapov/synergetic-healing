@@ -6,9 +6,7 @@ website:
   title: "Synergetic Healing"
   navbar:
     left:
-      - href: index.qmd
-        text: Courses
-      - courses.qmd
+      - href: courses.qmd
 
 format:
   html:
