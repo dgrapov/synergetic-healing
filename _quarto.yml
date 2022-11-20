@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Synergetic Healing"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Courses
+      - courses.qmd
+
+format:
+  html:
+    theme: yeti
+    css: assets/styles.css
+    toc: true
+
+editor: visual
+
